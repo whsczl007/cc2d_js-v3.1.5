@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "92a0a15f-8f30-46ca-8257-779686a4dadd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "beibaomoneyicon0": {
+      "ver": "1.0.4",
+      "uuid": "4220af54-1fce-4adb-9f03-40977e6916c2",
+      "rawTextureUuid": "92a0a15f-8f30-46ca-8257-779686a4dadd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 21,
+      "trimY": 21,
+      "width": 168,
+      "height": 168,
+      "rawWidth": 212,
+      "rawHeight": 212,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

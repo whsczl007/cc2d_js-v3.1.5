@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "443eec7b-679e-4088-8f38-574736f1ef86",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "beibaoicon1": {
+      "ver": "1.0.4",
+      "uuid": "7235232b-355a-4103-85af-dd87f2567ea4",
+      "rawTextureUuid": "443eec7b-679e-4088-8f38-574736f1ef86",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -3,
+      "trimX": 0,
+      "trimY": 9,
+      "width": 211,
+      "height": 200,
+      "rawWidth": 212,
+      "rawHeight": 212,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
